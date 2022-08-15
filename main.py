@@ -4,7 +4,7 @@ import cv2
 from pytesseract import Output
 import requests
 from datetime import datetime
-from flask import Flask, render_template, request, redirect, url_for, flash, jsonify
+from flask import Flask, request, jsonify
 
 app = Flask(__name__)
 
