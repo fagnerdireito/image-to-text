@@ -1,0 +1,44 @@
+inter
+
+Pix enviado
+RS 1.600,00
+
+Sobre a transagao
+
+Data do pagamento
+Horario
+
+ID da transagao
+
+Quarta, 18/05/2022
+
+05h39
+
+E00416968202205180839BkEYLdej6Js
+
+Quem recebeu
+
+Nome
+
+Allan G S Ananian Servicos Em Informatica
+
+CPF/CNPJ
+
+Instituigao
+
+Quem pagou
+Nome
+CPF/CNPJ
+
+Instituigao
+
+20.272.566/0001-80
+
+Caixa Economica Federal
+
+FAGNER DOS SANTOS GONCALVES
+
+*#*341.,012-**
+
+Banco Inter S.A.
+
